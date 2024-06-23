@@ -8,7 +8,7 @@ on:
     inputs:
       email:
         description: "Submitter email"
-        default: ""
+        default: "bledvina@apple.com"
         type: string
 
 jobs:
